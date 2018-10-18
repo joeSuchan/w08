@@ -1,0 +1,4 @@
+This is an example to show what my code is and what it does
+I am the 04 section of Web Applications and am a Junior 
+I am from Maryville Missouri and I am an IDM CS major
+I changed some of the background colors, the page icon, as well as some of the spacing 
